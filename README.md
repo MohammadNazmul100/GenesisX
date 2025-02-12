@@ -88,9 +88,3 @@ To contribute:
 - Clone the repo & create a new branch.
 - Add your changes & commit.
 - Submit a pull request for review.
-
----
-- [ ] **Use this README in `README.md`**
-- [ ] **Modify URLs & Image Paths as Needed**
-- [ ] **Push the updated README to GitHub**
-
